@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+cmd2
+colorama
+dnspython
+asyncio
+rich

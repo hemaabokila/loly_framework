@@ -1,0 +1,3 @@
+include wordlists/*.txt
+include payloads/*.txt
+include configs/*.txt
