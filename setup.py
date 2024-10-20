@@ -29,6 +29,7 @@ setup(
         '': [
             'wordlists/*.txt',
             'payloads/*.txt',
+            'payloads/*.json',
             'configs/*.txt',
         ],
     },
