@@ -1,3 +1,5 @@
-include wordlists/*.txt
-include payloads/*.txt
-include configs/*.txt
+include README.md
+recursive-include wordlists *.txt
+recursive-include payloads *.txt
+recursive-include payloads *.json 
+recursive-include configs *.txt
