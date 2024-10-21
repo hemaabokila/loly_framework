@@ -21,6 +21,15 @@ Before you begin, ensure you have the following installed on your system:
 
 - **Python 3.6 or higher**
 - Libraries listed in `requirements.txt` (these can be installed using the instructions below)
+## PyPI Installation (Recommended)
+- Alternatively, you can install the framework globally via PyPI:
+```
+sudo pip install loly-framework
+```
+- After installation, you can simply run the framework using
+```
+loly
+```
 
 ### Installation
 Clone the repository to your local machine:
