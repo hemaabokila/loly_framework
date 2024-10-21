@@ -1,4 +1,7 @@
 # LolyFramework
+[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 
 **LolyFramework** is a security testing framework designed to make it easier for penetration testers and security enthusiasts to find vulnerabilities in web applications. It offers a variety of tools for subdomain enumeration, URL discovery, vulnerability checking, and more, all in one place.
 
@@ -135,7 +138,7 @@ run portscan <url_or_ip> [>> <output_file>]
 run ddos <ip_address>
 ```
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 **Developed by Ibrahem Abo Kila**
